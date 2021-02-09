@@ -60,6 +60,7 @@ Syntax highlighted code block
 - Jupyter Labs (anaconda)
 - Azure ML
 - Pyculiarity , Prophet , Plearning
+```
 
 Get in Contact with me : [GitHub Flavored Markdown](https://www.linkedin.com/in/juanrodriguezcv/).
 
