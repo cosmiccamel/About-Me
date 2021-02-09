@@ -9,19 +9,39 @@ You can use the [editor on GitHub](https://github.com/cosmiccamel/linkedin/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### TOOLS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+# PREFERED CLOUD PROVIDER
+- Azure
 
-# Header 1
-## Header 2
+# PREFERED PROGRAMING LANGUAGES
+- Python 
+## Other Languages
+- Go
+- C#
+- Ruby
+- NodeJS
+
+# DATABASES
+## Relational
+- SQL Server
+- MySQL
+- PostgreSQL
+- SQLite
+- Redis
+
+## NON Relational
+- MongoDB
+- CosmosDB
+- PostgreSQL
+- SQLite
 ### Header 3
 
-- Bulleted
-- List
+
 
 1. Numbered
 2. List
