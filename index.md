@@ -5,20 +5,17 @@ I believe that customers should lay at the center of every business. What I mean
 Users today are immersed in a highly networked digital reality that only keeps accelerating the pace of change an bringing about more options, as consequence, the ability to ingest, analyze and communicate high volumes of data is a vital ability to help scope strategies that focus on the most important and relevant kpi’s.
 
 Here is where I come in: I believe my performance excels in the interception of customers, teams, products & data - By blending this skills with my energy, intelligence & integrity, I actively contribute to adding value to mission driven businesses that relentlessly focus on their clients.
-You can use the [editor on GitHub](https://github.com/cosmiccamel/linkedin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### TOOLS
+### **TOOLS**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-# PREFERED CLOUD PROVIDER
+# **PREFERED CLOUD PROVIDER**
 - Azure
 
-# PREFERED PROGRAMING LANGUAGES
+# **PREFERED PROGRAMING LANGUAGES**
 - Python 
 ## Other Languages
 - Go
@@ -26,7 +23,7 @@ Syntax highlighted code block
 - Ruby
 - NodeJS
 
-# DATABASES
+# **DATABASES**
 ## Relational
 - SQL Server
 - MySQL
@@ -39,12 +36,20 @@ Syntax highlighted code block
 - CosmosDB
 - PostgreSQL
 - SQLite
-### Header 3
 
+## GRAPH
+- NEO4J
+- GRAPHQL
 
+# **VIZ TOOLS**
+- PowerBI
+- Tableau
+- Looker
 
-1. Numbered
-2. List
+# **AI & ANALISYS TOOLS & ALGOS**
+- Jupyter Labs (anaconda)
+- Azure ML
+- Pyculiarity , Prophet , Plearning
 
 **Bold** and _Italic_ and `Code` text
 
