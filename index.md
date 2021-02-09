@@ -7,41 +7,51 @@ Users today are immersed in a highly networked digital reality that only keeps a
 Here is where I come in: I believe my performance excels in the interception of customers, teams, products & data - By blending this skills with my energy, intelligence & integrity, I actively contribute to adding value to mission driven businesses that relentlessly focus on their clients.
 
 ### **TOOLS**
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+What im using to solve problems :
 ```markdown
 Syntax highlighted code block
-# **PREFERED CLOUD PROVIDER**
+**PREFERED CLOUD PROVIDER**
 - Azure
+# Services
+- Azure Functions
+- Virtual Machines
+- Azure App Service
+- Virtual Machines Scale Set
+- Azure Continer Registry
+- Azure Kubernetes Service
+- Azure Insights
+- Logic Apps
+- Azure Storage Containers
+- Azure Active Directory
+- Azure WebJobs
 
-# **PREFERED PROGRAMING LANGUAGES**
+**PREFERED PROGRAMING LANGUAGES**
 - Python 
-## Other Languages
+# Other Languages (Newbie)
 - Go
 - C#
 - Ruby
 - NodeJS
 
-# **DATABASES**
-## Relational
+**DATABASES**
+# Relational
 - SQL Server
 - MySQL
 - PostgreSQL
 - SQLite
 - Redis
 
-## NON Relational
+# NON Relational
 - MongoDB
 - CosmosDB
 - PostgreSQL
 - SQLite
 
-## GRAPH
+# GRAPH
 - NEO4J
 - GRAPHQL
 
-# **VIZ TOOLS**
+**VIZ TOOLS**
 - PowerBI
 - Tableau
 - Looker
@@ -51,17 +61,5 @@ Syntax highlighted code block
 - Azure ML
 - Pyculiarity , Prophet , Plearning
 
-**Bold** and _Italic_ and `Code` text
+Get in Contact with me : [GitHub Flavored Markdown](https://www.linkedin.com/in/juanrodriguezcv/).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosmiccamel/linkedin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
